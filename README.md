@@ -56,7 +56,7 @@ helping to foster peer-to-peer sharing of good teaching practices,
 just as working on open source software projects is helping thousands
 of programmers pass on their insights to the next generation.
 
-[cut to Gabriel Devenyi talking about the community]
+[cut to Justin Ely talking about our workshops]
 
 And most importantly of all, the teaching practices we're passing on
 really are the right ones.  Four years ago, I finally started doing
@@ -65,30 +65,42 @@ learning.  I haven't been able to incorporate everything I've learned
 into Software Carpentry --- not yet, anyway --- but we've done what we
 can, and we're doing more all the time.
 
-I'm really excited by these ideas, so I'd like to spend a year or two
-seeing how far I can take them.  I want to see what it takes to get
-people to build lessons the way the open source community builds
-software, and whether doing that will encourage people to adopt
-modern, evidence-based teaching practices, just as working on open
-software has encouraged programmers to adopt things like code review
-and continuous integration.
+I'm really excited by these ideas, so I'd like to spend a year seeing
+how far I can take them.  I want to see what it takes to get people to
+build lessons the way the open source community builds software, and
+whether doing that will encourage people to adopt modern,
+evidence-based teaching practices, just as working on open software
+has encouraged programmers to adopt things like code review and
+continuous integration.
 
-[cut to Justin Ely talking about how Software Carpentry has helped STSCI]
+To do this, I want to expand Software Carpentry's instructor training
+to produce two hundred new instructors a year --- instructors who can
+and will create lessons collaboratively.  To aid them, I want to build
+some simple tools for writing and managing lessons that incorporate
+ideas like code review and discoverability --- ideas that are absent
+from existing heavyweight standards.  I want to build some new lessons
+using those tools, both to try out the tools and because we need
+material on a wide variety of subjects.  And finally, I want to record
+instructors in action and use video annotation so that their peers can
+learn from them and give them feedback, because I think that will be
+the most effective way to spread good practices around.
 
-I think I'm well qualified to do this because Software Carpentry isn't
-the only collaborative project I've gotten off the ground.  In the
-early 2000s, I started running project courses for senior undergrads
-at the University of Toronto.  By 2009, I had turned that into a
-program called UCOSP, in which students from universities all across
-Canada work in distributed teams on open source projects.  In 2006, I
-got three dozen of the best programmers in the world to create an
-award-winning book called "Beautiful Code".  A couple of years later,
-I got top researchers in software engineering to describe key results
-from empirical studies of how people actually program in another book
-called "Making Software", and more recently, I've been managing a
-series of books called "The Architecture of Open Source Applications",
-in which the lead designers of major open source projects describe how
-their programs are put together.
+[cut to Gabriel Devenyi talking about his growth as an instructor]
+
+I think I'm well qualified to do all of this because Software
+Carpentry isn't the only collaborative project I've gotten off the
+ground.  In the early 2000s, I started running project courses for
+senior undergrads at the University of Toronto.  By 2009, I had turned
+that into a program called UCOSP, in which students from universities
+all across Canada work in distributed teams on open source projects.
+In 2006, I got three dozen of the best programmers in the world to
+create an award-winning book called "Beautiful Code".  A couple of
+years later, I got top researchers in software engineering to describe
+key results from empirical studies of how people actually program in
+another book called "Making Software", and more recently, I've been
+managing a series of books called "The Architecture of Open Source
+Applications", in which the lead designers of major open source
+projects describe how their programs are put together.
 
 [cut to Marian Petre talking about marrying research with practice]
 
