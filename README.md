@@ -13,12 +13,13 @@ scientist a supercomputer is like giving a Ferrari to a teenager who
 can barely get a family four-door out of the driveway.  Most
 scientists are never actually taught how to program --- or how to test
 code, or use version control, or any of the other things that
-programmers do to make their lives easier.  As a result, it takes them
-weeks or months to do things they could in hours or days, and they
-have no idea when they're finished whether their results are
-trustworthy, or even how to reproduce them.
+programmers do to make their lives easier.  As a result, they spend a
+lot of time reinventing wheels, it takes them weeks or months to do
+things they could in hours or days, and they have no idea when they're
+finished whether their results are trustworthy, or even how to
+reproduce them.
 
-[cut to Adina Chuang Howe explaining the problems she sees]
+[cut to Dominique Vuvan explaining the problems she sees]
 
 To fix this, I co-founded a project called Software Carpentry.  Its
 aim is to teach scientists all the boring things that actually work,
@@ -29,7 +30,7 @@ countries.  In the last year alone, we've run two-day workshops for
 over 7000 researchers, and we're set to double those numbers in the
 coming two years.  And those workshops are really making a difference.
 
-[cut to Dominique Vuvan explaining how Software Carpentry helped her]
+[cut to Adina Chuang Howe explaining how the workshops helped her]
 
 There is now much more demand for workshops than we can meet, so for
 the past two and a half years, I've been running a training course to
@@ -56,7 +57,7 @@ helping to foster peer-to-peer sharing of good teaching practices,
 just as working on open source software projects is helping thousands
 of programmers pass on their insights to the next generation.
 
-[cut to Justin Ely talking about our workshops]
+[cut to Justin Ely talking about SWC bringing diverse groups together]
 
 And most importantly of all, the teaching practices we're passing on
 really are the right ones.  Four years ago, I finally started doing
