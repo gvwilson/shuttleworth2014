@@ -20,7 +20,23 @@ things they could in hours or days, and they have no idea when they're
 finished whether their results are trustworthy, or even how to
 reproduce them.
 
-[cut to Dominique Vuvan explaining the problems she sees]
+> Dominique Vuvan:
+> 
+> On one of my first days of graduate school, my supervisor sat me
+> down and said "Ok, you're going to have to learn to program in
+> Matlab." He gave me a book and one piece of example code and sent me
+> off it. I ended up struggling for years, trying to attain basic
+> competency that I probably could have achieved if I'd just attended
+> a first year Computer Science course. No idea how to effectively
+> create functions to avoid copy-pasting hundreds of lines of code, no
+> idea how to comment my code so I'd understand it later, no idea how
+> to use version control to keep track of my code and share it
+> effectively, and a minimal collection of totally unsystematic
+> scripting skills gained from making incremental changes to that one
+> piece of code my supervisor had given me. My data management was
+> organized, but completely inefficient: basically a pile of
+> spreadsheets that I manipulated manually, over and over, with no
+> record of what calculations had been done in what order.
 
 To fix this, I co-founded a project called Software Carpentry.  Its
 aim is to teach scientists all the boring things that actually work,
