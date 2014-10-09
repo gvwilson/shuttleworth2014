@@ -121,7 +121,20 @@ video annotation so that their peers can learn from them and give them
 feedback, because I think that will be the most effective way to
 spread good practices around.
 
-[cut to Gabriel Devenyi talking about his growth as an instructor]
+> Gabriel A. Devenyi:
+>
+> The first Software Carpentry workshop I attended, the material I was
+> exposed to was familiar due to my recreational interest in
+> programming, but the method by which it was taught was entirely
+> novel.  I was utterly convinced by Greg's "we need you" speech at
+> the end, so I attended the instructor training and started teaching
+> workshops.  What I learned served me well when I taught two
+> undergraduate courses in computational physics and materials science
+> at end of my Ph.D. at McMaster University.  The training and
+> experience Greg and Software Carpentry also contributed strongly to
+> me obtaining my current position as a Research Computing Engineer at
+> McGill University, where I'm passing on what I've learned in weekly
+> seminars to undergraduates doing neuroscience research.
 
 I think I'm the right person to do this because Software Carpentry
 isn't the only collaborative project I've gotten off the ground.  In

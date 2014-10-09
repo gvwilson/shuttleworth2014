@@ -9,7 +9,7 @@ software. However, most of them are never actually taught how to do
 this --- they pick up bits and pieces by osmosis and good luck. As a
 result, they spend a lot of time reinventing wheels (or spinning their
 own), and it takes them weeks or months to do things they could in
-hours or days.  And when they're done, they often have no idea how
+hours or days.  When they're done, they often have no idea how
 trustworthy their results are, and may not even be able to reproduce
 them.
 
