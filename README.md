@@ -89,7 +89,17 @@ helping to foster peer-to-peer sharing of good teaching practices,
 just as working on open source software projects is helping thousands
 of programmers pass on their insights to the next generation.
 
-[cut to Justin Ely talking about SWC bringing a diverse group of instructors together]
+> Justin Ely:
+>
+> Astronomy research is highly specialized.  Working on a given
+> project typically involves a handful of people focusing on a very
+> narrow topic. What has been striking about Software Carpentry is how
+> universal the topics are. Researchers in every discipline benefit
+> from the things taught in workshops. As a result, I've worked and
+> taught with people from astronomy, physics, biology, mathematics,
+> economics, and computer science. They all came together because they
+> recognized the need to spread this knowledge within their own field,
+> and Software Carpentry helped them do that.
 
 And most importantly of all, the teaching practices we're passing on
 really are the right ones.  Four years ago, I finally started doing

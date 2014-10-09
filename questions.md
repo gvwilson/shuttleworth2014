@@ -18,18 +18,16 @@ know how big the gap is between the way they work and the way they
 could and should work.  Big data gets all the attention, but it's
 small, everyday skills that scientists need most.
 
-Another consequence of this lack of skills is that scientists don't
-share nearly as much as they could.  Again, attention focuses these
-days on sharing of data and code, but there's something else most
-working scientists don't share either: their teaching.  Millions of
-people have contributed to Wikipedia, and to tens of thousands of open
-source software projects, but lessons are almost always still written
-by one or two people.  While people routinely "borrow" PowerPoint
-slides they find on the Internet, they almost never send patches back
-to improve the original.  They might put their lessons in an open
-access repository, but the "mend and extend" ethos that is the basis
-of truly open collaboration simply isn't part of most educators'
-thinking.
+And while attention is focused these days on sharing data and code,
+there's something else researchers don't share: their teaching.
+Millions of people have contributed to Wikipedia, and to tens of
+thousands of open source software projects, but lessons are almost
+always still written by one or two people.  While people routinely
+borrow PowerPoint slides they find on the Internet, they almost never
+send patches back to improve the original.  They might put their
+lessons in an open access repository, but the "mend and extend" ethos
+that is the basis of truly open collaboration simply isn't part of
+most educators' thinking.
 
 2. What change do you want to make?  (A description of what you want
    to change about the status quo, in the world, your personal vision
@@ -53,12 +51,12 @@ in the open, I want them to do that in their teaching, not just in
 their science, because I think that openness in one area accelerates
 and reinforces openness in others.
 
-Finally, I don't just want scientists to share what they have: I want
-them to *improve* it.  Code review was talked about more often than it
-was done until globally distributed collaboration on open source came
-along.  Equally, I think that peer review and improvement of teaching
-materials and good teaching practices are bound to take off once
-people are used to working out in the open.
+Equally, I don't just want scientists to share what they have: I want
+them to improve what *everyone* has.  Code review was talked about
+more often than it was done until globally distributed collaboration
+on open source came along.  I think the same can happen with teaching
+materials and teaching practices once people are used to working out
+in the open, and that we'll all be better off when it does.
 
 3. What do you want to explore?  (Describe the innovations or
    questions you would like to explore during the fellowship year, max
