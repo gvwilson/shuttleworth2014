@@ -19,53 +19,54 @@ could and should work.  Big data gets all the attention, but it's
 small, everyday skills that scientists need most.
 
 And while attention is focused these days on sharing data and code,
-there's something else researchers don't share: their teaching.
-Millions of people have contributed to Wikipedia, and to tens of
-thousands of open source software projects, but lessons are almost
-always still written by one or two people.  While people routinely
-borrow PowerPoint slides they find on the Internet, they almost never
-send patches back to improve the original.  They might put their
-lessons in an open access repository, but the "mend and extend" ethos
-that is the basis of truly open collaboration simply isn't part of
-most educators' thinking.
+there's something else researchers don't share: their lessons, and how
+they teach them.  Millions of people have contributed to Wikipedia,
+and to tens of thousands of open source software projects, but lessons
+are almost always still written by one or two people.  While people
+routinely borrow PowerPoint slides they find on the Internet, they
+almost never send patches back to improve the original.  They might
+put their lessons in an open access repository, but the "mend and
+extend" ethos that is the basis of truly open collaboration simply
+isn't part of most educators' thinking.
 
 2. What change do you want to make?  (A description of what you want
    to change about the status quo, in the world, your personal vision
    for this area, max 1500 ch)
 
 I want every scientist to learn the equivalent of basic lab skills for
-scientific computing so that they can spend their time actually doing
-research rather than pointing and clicking their way through two
-hundred spreadsheets or wondering which backup copy of the paper
-contains the final wording of the methods section.  I don't want them
-all to become professional software engineers; instead, I want them to
-be able to do routine things on their own, and to be able to
-collaborate effectively with professional developers when they need
-to.
+scientific computing.  I want them to automate tasks instead of
+repeatedly pointing and clicking, to use version control to track and
+share their work, to be able to re-run published experiments without
+heroic effort, and to know whether their code is probably correct or
+not.  I don't want them all to become professional software engineers;
+instead, I want them to be able to do routine things on their own, and
+work with professional developers when they need to.
 
-But I don't just want scientists to be able to compute better --- I
-want them to be able to *collaborate* better.  The scientists I meet
-today no longer ask, "Why should I be open?" but rather, "How do I
-actually do that?"  And once they know why and how to collaborate out
-in the open, I want them to do that in their teaching, not just in
-their science, because I think that openness in one area accelerates
-and reinforces openness in others.
+But I don't just want scientists to be able to compute better: I want
+them to be able to *collaborate* better.  The scientists I meet today
+no longer ask, "Why should I be open?" but rather, "How do I actually
+do that?"  And once they know why and how to collaborate out in the
+open, I want them to do that in their teaching as well, because I
+think that openness in one area accelerates and reinforces openness in
+others.
 
 Equally, I don't just want scientists to share what they have: I want
-them to improve what *everyone* has.  Code review was talked about
-more often than it was done until globally distributed collaboration
-on open source came along.  I think the same can happen with teaching
-materials and teaching practices once people are used to working out
-in the open, and that we'll all be better off when it does.
+them to improve what *everyone* has.  Code review's benefits have been
+known since the 1970s, but it didn't become popular until globally
+distributed collaboration on open source came along.  Once that
+happened, tens of thousands of programmers started benefiting from
+each other's insights.  I think the same can happen with teaching once
+people are used to working out in the open, and that we'll all be
+better off for it.
 
 3. What do you want to explore?  (Describe the innovations or
    questions you would like to explore during the fellowship year, max
    1500 ch)
 
-We've already proven that our current approach works --- that two full
-days of hands-on training really does help.  What I want to explore
-now is how we can do this better, but also how we can take what we've
-learned and apply it more broadly.
+We've already proven that our current approach really does help
+scientists get more done in less time and with less pain.  I want to
+explore how we can do this better, but also how we can apply what
+we've learned more broadly.
 
 I want to keep teaching scientists, but what I want to teach them is
 how to pass better skills on to their colleagues.  More importantly, I
