@@ -6,83 +6,67 @@ Questions and Answers from the Application Form
 
 Scientists spend an increasing amount of time building and using
 software. However, most of them are never actually taught how to do
-this --- they pick up bits and pieces by osmosis and good luck. As a
-result, they spend a lot of time reinventing wheels (or spinning their
-own), and it takes them weeks or months to do things they could in
-hours or days.  When they're done, they often have no idea how
-trustworthy their results are, and may not even be able to reproduce
-them.
+this - they pick up bits and pieces by osmosis and good luck. As a
+result, it takes them weeks or months to do things they could in hours
+or days, and when they're done, they often don't know how trustworthy
+their results are, how to reproduce them, or how to share them.
 
-The most frightening thing of all is that most scientists don't even
-know how big the gap is between the way they work and the way they
-could and should work.  Big data gets all the attention, but it's
-small, everyday skills that scientists need most.
-
-And while attention is focused these days on sharing data and code,
-there's something else researchers don't share: their lessons, and how
-they teach them.  Millions of people have contributed to Wikipedia,
-and to tens of thousands of open source software projects, but lessons
-are almost always still written by one or two people.  While people
-routinely borrow PowerPoint slides they find on the Internet, they
-almost never send patches back to improve the original.  They might
-put their lessons in an open access repository, but the "mend and
-extend" ethos that is the basis of truly open collaboration simply
-isn't part of most educators' thinking.
+And there's something else scientists don't share: their lessons and
+how they teach them.  Millions of people have contributed to
+Wikipedia, and tens of thousands will submit patches to open source
+software projects today alone, but even open educational resources are
+almost always still written by one or two people.  People routinely
+"borrow" PowerPoint slides they find on the Internet, but even those
+who contribute to Wikipedia and open source almost never send patches
+back to improve the original.  The "mend and extend" ethos that is the
+basis of truly open collaboration simply isn't part of how most people
+think about teaching.
 
 2. What change do you want to make?  (A description of what you want
    to change about the status quo, in the world, your personal vision
    for this area, max 1500 ch)
 
 I want every scientist to learn the equivalent of basic lab skills for
-scientific computing.  I want them to automate tasks instead of
-repeatedly pointing and clicking, to use version control to track and
-share their work, to be able to re-run published experiments without
-heroic effort, and to know whether their code is probably correct or
-not.  I don't want them all to become professional software engineers;
-instead, I want them to be able to do routine things on their own, and
-work with professional developers when they need to.
+scientific computing, but that is just a step toward a larger goal.
+What I really want is for massive, open collaboration to be a normal
+part of scientists' lives.  Software Carpentry is giving them some of
+the skills they need to do that in their research; the next step is to
+see if we can do it in their teaching.
 
-But I don't just want scientists to be able to compute better: I want
-them to be able to *collaborate* better.  The scientists I meet today
-no longer ask, "Why should I be open?" but rather, "How do I actually
-do that?"  And once they know why and how to collaborate out in the
-open, I want them to do that in their teaching as well, because I
-think that openness in one area accelerates and reinforces openness in
-others.
-
-Equally, I don't just want scientists to share what they have: I want
-them to improve what *everyone* has.  Code review's benefits have been
-known since the 1970s, but it didn't become popular until globally
-distributed collaboration on open source came along.  Once that
-happened, tens of thousands of programmers started benefiting from
-each other's insights.  I think the same can happen with teaching once
-people are used to working out in the open, and that we'll all be
-better off for it.
+I believe that if we can make open collaboration the new normal, it
+will encourage scientists (and others) to adopt modern evidence-based
+teaching techniques as well, just as the spread of open software
+development in the 1990s and early 2000s led to broader uptake of
+practices like code review, which in turn allowed programmers to learn
+better technique from one another.  I think the same can happen with
+teaching once people are used to working out in the open, and that
+we'll all be better off for it.
 
 3. What do you want to explore?  (Describe the innovations or
    questions you would like to explore during the fellowship year, max
    1500 ch)
 
-We've already proven that our current approach really does help
-scientists get more done in less time and with less pain.  I want to
-explore how we can do this better, but also how we can apply what
-we've learned more broadly.
+I want to try using off-the-shelf package managers to manage teaching
+materials, so that "lesson install calculus-trig-derivatives" will get
+the lesson, the code and data it uses, and whatever it depends on.
+Once this is in place, I then want to build an aggregator - a "CPAN
+for lessons" that will encourage people to mend and share rather than
+just upload and download.
 
-I want to keep teaching scientists, but what I want to teach them is
-how to pass better skills on to their colleagues.  More importantly, I
-want to show them that all these same ideas can be applied to
-creating, sharing, and maintaining teaching materials.  Open education
-shouldn't mean "I can use your slides", but rather, "We can all work
-together to make those slides (and exercises, and videos) better for
-everyone."  The technical and social tools for doing this, like
-version control and code review, have been around for years; I think
+(I also believe that if we can make this work, we could use it to
+"install" scientific papers for reading, review, and re-analysis,
+which would be an interesting new approach to the scientific
+reproducibility crisis.)
+
+But this is just a means to an end.  Open education shouldn't mean "I
+can use your slides", but rather, "We can all work together to make
+those slides (and exercises, and videos) better for everyone."  The
+technical tools for doing this have been around for years; I think
 they can help educators just as much as they've helped programmers,
 but somebody has to get the ball rolling.
 
-Finally, I think that if people start collaborating on material,
-they'll be more likely to share good practices with each other, just
-as programmers who collaborate on open source projects pick up good
-practices like test-driven development.  Educational researchers know
+And if people start collaborating on material, they'll be more likely
+to share good practices with each other.  Educational researchers know
 a lot about teaching and learning that isn't yet part of mainstream
 practice; equally, a lot of good ideas are stuck in the classroom of
 the teacher who invented them because there's no way for her to share
@@ -92,27 +76,21 @@ once.
 4. What are you going to do to get there?  (A description of what you
    actually plan to do during the year, max 1500 ch)
 
-a) I will focus on training Software Carpentry instructors rather than
-   on teaching workshops.  More specifically, I will train at least
-   200 new instructors during the course of the first year of this
-   fellowship.
+a) I will train at least 200 new Software Carpentry instructors during
+   the course of the first year of this fellowship, both as a good in
+   its own right, and to create a pool of people willing and able to
+   try the ideas described below.
 
-b) I will build open source tools to support collaborative
-   construction of teaching materials.  This will include development
-   of human-editable but machine-readable templates for lessons, tools
-   for checking the consistency and prerequisites of lessons based on
-   their definitions of key concepts, and training materials to show
-   people who *aren't* programmers how to use open source techniques
-   (such as incremental patching and threaded review) to collaborate
-   on lesson development.
+b) I will build prototypes in order to experiment with ways of using
+   and extending open version control repositories and package
+   managers to collaborate on, distribute, and remix teaching
+   materials.
 
-c) I will do for education what Software Carpentry has done for
-   computing skills.  Specifically, I will create a course and a
-   written guide to evidence-based best practices in teaching and
-   learning (tentatively titled) "What Everyone in Science and
-   Technology Absolutely, Positively Must Know About Education"), and
-   make it freely available under the Creative Commons - Attribution
-   license.
+c) I will create a short course on evidence-based best practices in
+   teaching and learning (tentatively titled "What Everyone in Science
+   and Technology Absolutely, Positively Must Know About Education"),
+   and make it freely available under the Creative Commons -
+   Attribution license.
 
 5. Does your idea/project have a name?
 
@@ -126,17 +104,18 @@ Software Carpentry
 
 Matthew Crawford once wrote, "Too often, the defenders of free markets
 forget that what we really want is free men."  Similarly, I think that
-many advocates of open science data sometimes forget that it is just a
-means to an end.  The real goal is to allow everyone, everywhere, to
-work together without hindrance.  Openness is necessary for that, but
-not sufficient: people must have the skills to actually *do* open for
-it to be meaningful.  Software Carpentry fosters openness by giving
-people what they need to implement it, and by explaining the ideas
-behind those tools, helps people understand why and how open is
-better.  Once these ideas take hold, and once people see that they
-apply not just to research but also to teaching, I believe they will
-find ways to apply them in domains we haven't thought of and ways we
-can't yet imagine.
+many advocates of open science, open data, and open source development
+sometimes forget that they just a means to an end.  The real goal is
+to allow everyone, everywhere, to work together without hindrance.
+Openness is necessary for that, but not sufficient: people must have
+the skills to actually do it in order for it to be meaningful.
+
+Software Carpentry fosters openness by giving people what they need to
+be open.  And by explaining the ideas behind those tools, it helps
+people understand why and how open is better.  Once these ideas take
+hold, and once people see that they apply not just to research but
+also to teaching, I believe they will find ways to apply them in
+domains we haven't thought of and ways we can't yet imagine.
 
 7. Have you started implementation of the idea?
 
@@ -149,12 +128,11 @@ Software Carpentry ran its first class at Los Alamos National
 Laboratory in 1998.  Since 2010, it has grown into a volunteer
 organization with over 165 instructors in 19 countries, who have
 taught more than 100 two-day workshops for more than 5000 people in
-the last year alone.  In October 2014, we began work to set up a
-non-profit Software Carpentry Foundation (see
+the last year alone.  In October 2014, we set up a non-profit Software
+Carpentry Foundation (see
 http://software-carpentry.org/blog/2014/10/announcing-the-creation-of-the-software-carpentry-foundational.html).
-Its interim board will dissolve itself and be replaced by a permanent
-board early in 2015.  If this fellowship is awarded, I will step down
-as project lead in order to concentrate on this work.
+Its interim board is currently drafting bylaws for review, and will
+replace itself with a permanent board early in 2015.
 
 As well as running workshops, Software Carpentry also runs an
 instructor training course to teach scientists (many of them workshop
@@ -179,12 +157,11 @@ Other
 
 Software Carpentry has been supported by a wide range of organizations
 over the years, from universities and national laboratories through
-philanthropic foundations and private companies --- please see
-http://software-carpentry.org/pages/sponsors.html for a complete
-list.
+philanthropic foundations and private companies - please see
+http://software-carpentry.org/pages/sponsors.html for a complete list.
 
-Since January 2012, Software Carpentry has used a hybrid funding model
-in which workshop hosts (typically universities) cover the travel and
+Since January 2012, Software Carpentry has used a hybrid funding
+model: workshop hosts (typically universities) cover the travel and
 accommodation costs of instructors, but central costs (such as
 curriculum development and instructor training) are covered from
 grants and donations.  This has allowed us to scale our workshops to
@@ -192,7 +169,14 @@ the point where instructor training is now our biggest bottleneck.
 
 9. Who are your current or potential key partners?
 
-I am working with a 
+Our interim board includes representatives from the Sloan Foundation,
+the Mozilla Science Lab, the Software Sustainability Institute,
+ELIXIR-UK, and Lawrence Berkeley National Laboratory.  We are in
+discussion and/or preparing proposals for the Moore Foundation, the
+Arnold Foundation, and the NIH, and are seeking donations to support
+workshops specifically for women in science and engineering from
+Rackspace, Red Hat, Waterfront International, and Insight Data
+Science.
 
 10. Do you intend to implement the idea as a for profit or not for
     profit initiative in the future?
@@ -227,9 +211,11 @@ Yes
 
     Please Provide Links to your Web Presence/s
 
+http://software-carpentry.org (this project)
 http://third-bit.com (personal web site)
-http://aosabook.org
-http://sensibleadventures.com
+http://aosabook.org (Architecture of Open Source Applications)
+http://neverworkintheory.org (empirical software engineering research aggregator)
+http://sensibleadventures.com (writing for children)
 
 14. Does the idea/project have an online presence?
 
