@@ -1,8 +1,7 @@
 Questions and Answers from the Application Form
 ===============================================
 
-1. Describe the world as it is. (A description of the status quo and
-   context in which you will be working, max 1500 ch)
+## 1. Describe the world as it is. (A description of the status quo and context in which you will be working)
 
 Scientists spend an increasing amount of time building and using
 software. However, most of them are never actually taught how to do
@@ -22,9 +21,7 @@ back to improve the original.  The "mend and extend" ethos that is the
 basis of truly open collaboration simply isn't part of how most people
 think about teaching.
 
-2. What change do you want to make?  (A description of what you want
-   to change about the status quo, in the world, your personal vision
-   for this area, max 1500 ch)
+## 2. What change do you want to make?  (A description of what you want to change about the status quo, in the world, your personal vision for this area)
 
 I want every scientist to learn the equivalent of basic lab skills for
 scientific computing, but that is just a step toward a larger goal.
@@ -42,9 +39,7 @@ better technique from one another.  I think the same can happen with
 teaching once people are used to working out in the open, and that
 we'll all be better off for it.
 
-3. What do you want to explore?  (Describe the innovations or
-   questions you would like to explore during the fellowship year, max
-   1500 ch)
+## 3. What do you want to explore?  (Describe the innovations or questions you would like to explore during the fellowship year)
 
 I want to try using off-the-shelf package managers to manage teaching
 materials, so that "lesson install calculus-trig-derivatives" will get
@@ -73,8 +68,7 @@ the teacher who invented them because there's no way for her to share
 them.  I think open collaboration could help us fix both problems at
 once.
 
-4. What are you going to do to get there?  (A description of what you
-   actually plan to do during the year, max 1500 ch)
+## 4. What are you going to do to get there?  (A description of what you actually plan to do during the year)
 
 a) I will train at least 200 new Software Carpentry instructors during
    the course of the first year of this fellowship, both as a good in
@@ -92,15 +86,15 @@ c) I will create a short course on evidence-based best practices in
    and make it freely available under the Creative Commons -
    Attribution license.
 
-5. Does your idea/project have a name?
+## 5. Does your idea/project have a name?
 
 Yes
 
-   Project/Idea Name
+**Project/Idea Name**
 
 Software Carpentry
 
-6. How does your idea relate to openness?
+## 6. How does your idea relate to openness?
 
 Matthew Crawford once wrote, "Too often, the defenders of free markets
 forget that what we really want is free men."  Similarly, I think that
@@ -117,12 +111,11 @@ hold, and once people see that they apply not just to research but
 also to teaching, I believe they will find ways to apply them in
 domains we haven't thought of and ways we can't yet imagine.
 
-7. Have you started implementation of the idea?
+## 7. Have you started implementation of the idea?
 
 Yes
 
-   If so, please provide details on organisational structure, life
-   cycle and progress (max 1500 ch)
+** If so, please provide details on organisational structure, life cycle and progress**
 
 Software Carpentry ran its first class at Los Alamos National
 Laboratory in 1998.  Since 2010, it has grown into a volunteer
@@ -130,7 +123,7 @@ organization with over 165 instructors in 19 countries, who have
 taught more than 100 two-day workshops for more than 5000 people in
 the last year alone.  In October 2014, we set up a non-profit Software
 Carpentry Foundation (see
-http://software-carpentry.org/blog/2014/10/announcing-the-creation-of-the-software-carpentry-foundational.html).
+[http://software-carpentry.org/blog/2014/10/announcing-the-creation-of-the-software-carpentry-foundational.html](http://software-carpentry.org/blog/2014/10/announcing-the-creation-of-the-software-carpentry-foundational.html)).
 Its interim board is currently drafting bylaws for review, and will
 replace itself with a permanent board early in 2015.
 
@@ -149,16 +142,16 @@ GitHub, and are proof that open collaboration on lessons can work: the
 most recent versions have had over a hundred contributors in the last
 two years.
 
-8. How have you funded your initiative in the past?
+## 8. How have you funded your initiative in the past?
 
 Other
 
-   Funding Details (max 1500 ch)
+**Funding Details**
 
 Software Carpentry has been supported by a wide range of organizations
 over the years, from universities and national laboratories through
 philanthropic foundations and private companies - please see
-http://software-carpentry.org/pages/sponsors.html for a complete list.
+[http://software-carpentry.org/pages/sponsors.html](http://software-carpentry.org/pages/sponsors.html) for a complete list.
 
 Since January 2012, Software Carpentry has used a hybrid funding
 model: workshop hosts (typically universities) cover the travel and
@@ -167,7 +160,7 @@ curriculum development and instructor training) are covered from
 grants and donations.  This has allowed us to scale our workshops to
 the point where instructor training is now our biggest bottleneck.
 
-9. Who are your current or potential key partners?
+## 9. Who are your current or potential key partners?
 
 Our interim board includes representatives from the Sloan Foundation,
 the Mozilla Science Lab, the Software Sustainability Institute,
@@ -178,65 +171,62 @@ workshops specifically for women in science and engineering from
 Rackspace, Red Hat, Waterfront International, and Insight Data
 Science.
 
-10. Do you intend to implement the idea as a for profit or not for
-    profit initiative in the future?
+## 10. Do you intend to implement the idea as a for profit or not for profit initiative in the future?
 
-Not for profit
+Not for profit.
 
-11. Where will you be based during the fellowship?
+## 11. Where will you be based during the fellowship?
 
-    Base Country
+**Base Country**
 
 Canada
 
-    Base City
+**Base City**
 
 Toronto
 
-12. Where will you implement your idea?
+## 12. Where will you implement your idea?
 
-Other country or city
-
-    Project Country
+**Project Country**
 
 Many, including online
 
-    Project City
+**Project City**
 
 Many, including online
 
-13. Do you have an online presence?
+## 13. Do you have an online presence?
 
 Yes
 
-    Please Provide Links to your Web Presence/s
+**Please Provide Links to your Web Presence/s**
 
-http://software-carpentry.org (this project)
-http://third-bit.com (personal web site)
-http://aosabook.org (Architecture of Open Source Applications)
-http://neverworkintheory.org (empirical software engineering research aggregator)
-http://sensibleadventures.com (writing for children)
+* [http://software-carpentry.org](http://software-carpentry.org) (this project)
+* [http://third-bit.com](http://third-bit.com) (personal web site)
+* [http://aosabook.org](http://aosabook.org) (Architecture of Open Source Applications)
+* [http://neverworkintheory.org](http://neverworkintheory.org) (empirical software engineering research aggregator)
+* [http://sensibleadventures.com](http://sensibleadventures.com) (writing for children)
 
-14. Does the idea/project have an online presence?
+## 14. Does the idea/project have an online presence?
 
 Yes
 
-    Please Provide Links to your Project/Idea's Web Presence/s
+**Please Provide Links to your Project/Idea's Web Presence/s**
 
-http://software-carpentry.org
+[http://software-carpentry.org](http://software-carpentry.org)
 
-15. How did you hear about the Shuttleworth Foundation Fellowship Program?
+## 15. How did you hear about the Shuttleworth Foundation Fellowship Program?
 
 Current/Past Fellow
 
-16. Have you applied for a Shuttleworth Foundation Fellowship in a previous round?
+## 16. Have you applied for a Shuttleworth Foundation Fellowship in a previous round?
 
 No
 
-17. Upload Resume
+## 17. Upload Resume
 
 Attached.
 
 18. Video URL
 
-TBD.
+[https://vimeo.com/110124235](https://vimeo.com/110124235)
